@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (193)" src="https://github.com/user-attachments/assets/39bd73db-5f5b-4f67-a800-6fe2f87d18b2" />
+
 # networking-troubleshooting-lab
 
 
@@ -36,9 +36,18 @@ Steps involved in Downloading Oracle virtual box:
 10. Warning Network Interfaces . Click YES
 11. Custom Setup check all the boxes ( This helps to create desktop short cut ) and click NEXT.
 12. Click Install
-13. <img width="1920" height="1080" alt="Screenshot (194)" src="https://github.com/user-attachments/assets/5705ea6b-8ac0-46ee-a570-e1b4fea2be3f" />
-<img width="1920" height="1080" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/b505c8bd-67ae-4fba-8e35-e1dbfbc7a399" />
-<img width="1920" height="1080" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/858c1a9f-532f-4ac9-b166-60d286a0e4b7" />
+13. <img width="1920" height="1080" alt="Screenshot (186)" src="https://github.com/user-attachments/assets/afa5addd-d3dc-4182-9bbc-15c9177e5f09" />
+<img width="1920" height="1080" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/818c00ff-af2b-4ef8-a43e-84f572aa260d" />
+<img width="1920" height="1080" alt="Screenshot (188)" src="https://github.com/user-attachments/assets/d68954cb-5f5b-40f3-a3d3-bb708d9977cf" />
+<img width="1920" height="1080" alt="Screenshot (189)" src="https://github.com/user-attachments/assets/71befbd2-2df3-4582-bb12-680ded75fb07" />
+<img width="1920" height="1080" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/e436d837-1c1b-4754-bad1-b4a6488772e4" />
+<img width="1920" height="1080" alt="Screenshot (191)" src="https://github.com/user-attachments/assets/e13b7924-716a-46ac-97f1-e3e0e6314947" />
+<img width="1920" height="1080" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/353b43e1-40c6-4fd7-a04f-76a4e91a2b78" />
+<img width="1920" height="1080" alt="Screenshot (193)" src="https://github.com/user-attachments/assets/866e0ef6-6e67-4b41-a661-7b6e343f843e" />
+<img width="1920" height="1080" alt="Screenshot (194)" src="https://github.com/user-attachments/assets/53eb4954-053f-4c3c-ab1a-9f2c4178c08d" />
+<img width="1920" height="1080" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/635971ea-5cb8-4e6b-b0d6-6067b9c1233d" />
+<img width="1920" height="1080" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/91d8ecf3-1b59-40eb-863f-e40991763799" />
+
 
 
    
