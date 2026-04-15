@@ -44,7 +44,6 @@ Steps involved in Downloading Oracle virtual box:
 <img width="1920" height="1080" alt="Screenshot (191)" src="https://github.com/user-attachments/assets/e13b7924-716a-46ac-97f1-e3e0e6314947" />
 <img width="1920" height="1080" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/353b43e1-40c6-4fd7-a04f-76a4e91a2b78" />
 <img width="1920" height="1080" alt="Screenshot (193)" src="https://github.com/user-attachments/assets/866e0ef6-6e67-4b41-a661-7b6e343f843e" />
-<img width="1920" height="1080" alt="Screenshot (194)" src="https://github.com/user-attachments/assets/53eb4954-053f-4c3c-ab1a-9f2c4178c08d" />
 <img width="1920" height="1080" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/635971ea-5cb8-4e6b-b0d6-6067b9c1233d" />
 <img width="1920" height="1080" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/91d8ecf3-1b59-40eb-863f-e40991763799" />
 
