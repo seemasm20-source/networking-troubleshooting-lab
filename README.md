@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screenshot (193)" src="https://github.com/user-attachments/assets/39bd73db-5f5b-4f67-a800-6fe2f87d18b2" />
 # networking-troubleshooting-lab
 
 
