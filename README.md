@@ -36,16 +36,17 @@ Steps involved in Downloading Oracle virtual box:
 11. Custom Setup check all the boxes ( This helps to create desktop short cut ) and click NEXT.
 12. Click Install
 13. Click the Finish button to exit the Setup Wizard.
-14. Desktop shortcut Oracle Virtual box is created.<img width="1920" height="1080" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/e3a4666b-ccb2-49f6-90f9-411ea486be0f" />
-<img width="1920" height="1080" alt="Screenshot (194)" src="https://github.com/user-attachments/assets/f44fd47a-334b-46d3-a803-4cb1756bc9c3" />
-<img width="1920" height="1080" alt="Screenshot (193)" src="https://github.com/user-attachments/assets/0f7250d3-18eb-40ec-b780-82471b8afccc" />
-<img width="1920" height="1080" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/301bfada-f3e2-4778-affc-a1486456146a" />
-<img width="1920" height="1080" alt="Screenshot (191)" src="https://github.com/user-attachments/assets/b1559213-ea8f-4cdd-8041-04cca411d977" />
-<img width="1920" height="1080" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/c6739bd0-9167-4577-bc6b-0171ed184c3c" />
-<img width="1920" height="1080" alt="Screenshot (189)" src="https://github.com/user-attachments/assets/109b9c92-b061-4869-b456-ae55537d2e8c" />
-<img width="1920" height="1080" alt="Screenshot (188)" src="https://github.com/user-attachments/assets/3bc31316-21ee-4209-80be-0798aabeaf97" />
-<img width="1920" height="1080" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/ce611717-148a-45de-b7de-144caa0b714d" />
-<img width="1920" height="1080" alt="Screenshot (186)" src="https://github.com/user-attachments/assets/747a1d74-08a4-4506-a17d-6e72b53b2030" />
+<img width="1920" height="1080" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/8f64eac7-e6fe-4e72-a64b-fe7b47da3da2" />
+<img width="1920" height="1080" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/c97b966a-e30c-46c6-ac61-1e7b31bdc969" />
+<img width="1920" height="1080" alt="Screenshot (194)" src="https://github.com/user-attachments/assets/f8ff5161-de2c-440e-b42e-d60c7ea8fe87" />
+<img width="1920" height="1080" alt="Screenshot (193)" src="https://github.com/user-attachments/assets/1f3b163c-4508-4e42-af71-0c7afca8b8c1" />
+<img width="1920" height="1080" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/c737a302-f965-483d-b573-2cb5bcab35d9" />
+<img width="1920" height="1080" alt="Screenshot (191)" src="https://github.com/user-attachments/assets/cd80ae79-0201-4927-9003-c0aede39a57f" />
+<img width="1920" height="1080" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/3e76de14-1566-43b3-9a6d-c48e94657e30" />
+<img width="1920" height="1080" alt="Screenshot (189)" src="https://github.com/user-attachments/assets/cf95cc40-55ec-40ca-b996-a34bd60f5a29" />
+<img width="1920" height="1080" alt="Screenshot (188)" src="https://github.com/user-attachments/assets/76d3fdec-6d53-4340-b811-5410c8f3e124" />
+<img width="1920" height="1080" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/e695237a-9225-4328-bc4f-cfc08b57c623" />
+<img width="1920" height="1080" alt="Screenshot (186)" src="https://github.com/user-attachments/assets/ff2d950c-f246-4fa0-96f3-002fc20457ec" />
 
 
 
