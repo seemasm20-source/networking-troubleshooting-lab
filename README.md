@@ -35,15 +35,12 @@ Steps involved in Downloading Oracle virtual box:
 10. Warning Network Interfaces . Click YES
 11. Custom Setup check all the boxes ( This helps to create desktop short cut ) and click NEXT.
 12. Click Install
+13. <img width="1920" height="1080" alt="Screenshot (194)" src="https://github.com/user-attachments/assets/5705ea6b-8ac0-46ee-a570-e1b4fea2be3f" />
+<img width="1920" height="1080" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/b505c8bd-67ae-4fba-8e35-e1dbfbc7a399" />
+<img width="1920" height="1080" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/858c1a9f-532f-4ac9-b166-60d286a0e4b7" />
 
-<img width="1920" height="1080" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/22ce89c4-3fdc-4224-b1b2-2dd258c92122" />
-<img width="1920" height="1080" alt="Screenshot (191)" src="https://github.com/user-attachments/assets/ffb53c7c-d160-4914-8244-d2b37c38a58b" />
-<img width="1920" height="1080" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/5a78342f-ea81-42b2-b310-e02b726637c3" />
-<img width="1920" height="1080" alt="Screenshot (189)" src="https://github.com/user-attachments/assets/3a94e353-2b93-4f80-9bb2-836681752286" />
-<img width="1920" height="1080" alt="Screenshot (188)" src="https://github.com/user-attachments/assets/001c6275-4f2a-45b2-86f0-33b8426401a0" />
-<img width="1920" height="1080" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/02d97d7c-2eff-40a1-9cd1-178817588573" />
-<img width="1920" height="1080" alt="Screenshot (186)" src="https://github.com/user-attachments/assets/42fb4906-cc41-473c-8ac2-60fcc2e93005" />
 
+   
 
 
 
