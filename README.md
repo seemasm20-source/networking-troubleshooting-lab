@@ -28,10 +28,10 @@ Network interface diagnostics
 Documenting issues and solutions in a structured manner
 
 Requirements:
-
-
 Tools used- Oracle Virtual box
+
 Operating system-Windows 11 Home 64bit(10.0,Build 26200)
+
 To download-virtualbox.org
 
 License:
