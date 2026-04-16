@@ -2,12 +2,12 @@
 # networking-troubleshooting-lab
 
 
-Overview:
+**Overview:**
 
 This project documents hands-on networking troubleshooting scenarios commonly encountered by IT Help Desk and Tier 1 Support technicians. The goal is to build a practical reference guide for diagnosing and resolving network connectivity issues in real-world and simulated environments.
 Each task reflects typical support tickets raised by end users, covering everything from basic connectivity failures to DNS misconfigurations and DHCP conflicts. This lab serves as both a learning resource and a portfolio piece demonstrating applied networking skills.
 
-Key Focus Areas:
+**Key Focus Areas:**
 
 End-to-end connectivity troubleshooting
 IP addressing & DHCP issues
@@ -17,9 +17,9 @@ Documenting issues and solutions in a structured manner
 
 
 
-ISSUE:1   Home Lab VPN Project — IT Help Desk Tier 1(VPN ISSUES AND TROUBLESHOOTING)
+**ISSUE:1   Home Lab VPN Project — IT Help Desk Tier 1(VPN ISSUES AND TROUBLESHOOTING)**
 
-Key Focus Areas:
+**Key Focus Areas:**
 
 End-to-end connectivity troubleshooting
 IP addressing & DHCP issues
@@ -27,18 +27,18 @@ DNS resolution failures
 Network interface diagnostics
 Documenting issues and solutions in a structured manner
 
-Requirements:
+**Requirements:**
 Tools used- Oracle Virtual box
 
 Operating system-Windows 11 Home 64bit(10.0,Build 26200)
 
 To download-virtualbox.org
 
-License:
+**License:**
 
 This project is open-source. You are free to use, modify, and share it.
 
-Set up Instructions:
+**Set up Instructions:**
 1. Firstly go to browser and search for virtualbox.org and press enter
 2. The official website opens and click download there.
 3. Select the version you want to work with, mine was Windows host.
