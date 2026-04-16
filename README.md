@@ -17,13 +17,28 @@ Documenting issues and solutions in a structured manner
 
 
 
-ISSUE:1   Home Lab VPN Project — IT Help Desk Tier 1
-VPN Isuues and Troubleshooting.
+ISSUE:1   Home Lab VPN Project — IT Help Desk Tier 1(VPN ISSUES AND TROUBLESHOOTING)
+
+Key Focus Areas:
+
+End-to-end connectivity troubleshooting
+IP addressing & DHCP issues
+DNS resolution failures
+Network interface diagnostics
+Documenting issues and solutions in a structured manner
+
+Requirements:
+
+
 Tools used- Oracle Virtual box
 Operating system-Windows 11 Home 64bit(10.0,Build 26200)
 To download-virtualbox.org
 
-Steps involved in Downloading Oracle virtual box:
+License:
+
+This project is open-source. You are free to use, modify, and share it.
+
+Set up Instructions:
 1. Firstly go to browser and search for virtualbox.org and press enter
 2. The official website opens and click download there.
 3. Select the version you want to work with, mine was Windows host.
